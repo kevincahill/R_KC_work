@@ -1,0 +1,761 @@
+IntOrig	Int	Comp	Tissue	Lesion	FISHER
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Not Identified in Marrow"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Present in Marrow"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	Osteoneogenesis	0.987179487
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Periosteum, Bone Proliferation"	0.5
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Periosteum, Fibrosis"	0.1
+21 day	21 day	IRM COMPARED TO NB	"LYMPH NODE, POPLITEAL"	UNREMARKABLE	0.5
+21 day	21 day	IRM COMPARED TO NB	"LYMPH NODE, POPLITEAL"	"Fibrosis, Capsule"	1
+21 day	21 day	IRM COMPARED TO NB	"LYMPH NODE, POPLITEAL"	"Germinal Center, Active, Cortex"	1
+21 day	21 day	IRM COMPARED TO NB	"LYMPH NODE, POPLITEAL"	"Infiltrate, Heterophil, Medullary Cord"	1
+21 day	21 day	IRM COMPARED TO NB	"LYMPH NODE, POPLITEAL"	"Pigment, Yellow-Brown, Macrophage"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	Cortical Bone Defect	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Cortical Bone Defect, Not Apparent in Plane of Section"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Cortical Bone Defect, Replaced with Trabecular Bone"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Black, Multinucleated Giant Cell"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Center Cavity"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Fibrosis"	0.5
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Granulation Tissue (Central Cavity/Necrosis)"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Hemorrhage"	0.766666667
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Heterophil"	0.996503497
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Lymphocytes"	0.5
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Macrophages"	0.5
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Marrow Elements"	0.695804196
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	0.766666667
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.715384615
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Marrow Necrosis"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Metaplasia Osseous"	0.233333333
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Mineralization"	0.695804196
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Neovascularization"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Not Identified in Marrow"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Present in Marrow"	0.5
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Marrow, Fibrosis"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Marrow, Macrophage, Focal"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	Osteoneogenesis	0.766666667
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Periosteum, Bone Proliferation"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Periosteum, Fibrosis"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	Cortical Bone Defect	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Cortical Bone Defect, Not Apparent in Plane of Section"	0.5
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Cortical Bone Defect, Replaced with Trabecular Bone"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Black, Multinucleated Giant Cell"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Center Cavity"	0.5
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Fibrosis"	0.233333333
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Granulation Tissue (Central Cavity/Necrosis)"	0.5
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Hemorrhage"	0.059440559
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Heterophil"	0.842657343
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Lymphocytes"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Macrophages"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Marrow Elements"	0.5
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	0.5
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.9
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Marrow Necrosis"	0.012820513
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Metaplasia Osseous"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Mineralization"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Neovascularization"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Not Identified in Marrow"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Present in Marrow"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Marrow, Fibrosis"	0.5
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Marrow, Macrophage, Focal"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	Osteoneogenesis	0.961538462
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Periosteum, Bone Proliferation"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Periosteum, Fibrosis"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	Cortical Bone Defect	0.961538462
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Cortex, Bone Necrosis"	0.766666667
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Not Apparent in Plane of Section"	0.284615385
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Replaced with Trabecular Bone"	0.961538462
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Fibrosis"	0.858974359
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Hemorrhage"	0.141025641
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Heterophil"	0.961538462
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Lymphocytes"	0.233333333
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Macrophages"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Marrow Elements"	0.9
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.5
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Marrow Necrosis"	0.012820513
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Metaplasia Osseous"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Mineralization"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Neovascularization"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Present in Marrow"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	Osteoneogenesis	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Bone Proliferation"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Cartilage Formation"	0.766666667
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Fibrosis"	0.715384615
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Foreign Refractile Material, Macrophage"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Implant Material"	0.766666667
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Infiltrate, Multinucleated Cell"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	Cortical Bone Defect	0.5
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Cortical Bone Defect, Not Apparent in Plane of Section"	0.842657343
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Cortical Bone Defect, Replaced with Trabecular Bone"	0.5
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Central Cavity"	0.5
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Fibrosis"	0.69036519
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Granulation Tissue (Central Cavity/Necrosis)"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Hemorrhage"	0.284615385
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Heterophil"	0.69036519
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Lymphocytes"	0.858974359
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Macrophages"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Marrow Elements"	0.5
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	0.715384615
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.5
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Marrow Necrosis"	0.5
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Metaplasia Osseous"	1
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Mineralization"	0.5
+21 day	21 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Neovascularization"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	Cortical Bone Defect	0.5
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Cortex, Bone Necrosis"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Not Apparent in Plane of Section"	0.9
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Replaced with Trabecular Bone"	0.5
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Fibrosis"	0.5
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Hemorrhage"	0.5
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Heterophil"	0.961538462
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Lymphocytes"	0.000699301
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Macrophages"	0.5
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Marrow Elements"	0.940559441
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	0.1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.5
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Marrow Necrosis"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Metaplasia Osseous"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Mineralization"	0.30963481
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Neovascularization"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Present in Marrow"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	Osteoneogenesis	0.059440559
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Bone Proliferation"	0.715384615
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Cartilage Formation"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Fibrosis"	0.5
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Foreign Refractile Material, Macrophage"	0.5
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Implant Material"	0.5
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Infiltrate, Multinucleated Cell"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	Cortical Bone Defect	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Cortical Bone Defect, Not Apparent in Plane of Section"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Cortical Bone Defect, Replaced with Trabecular Bone"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Central Cavity"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Fibrosis"	0.858974359
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Granulation Tissue (Central Cavity/Necrosis)"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Hemorrhage"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Heterophil"	0.9
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Lymphocytes"	0.9
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Macrophages"	0.5
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Marrow Elements"	0.304195804
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	0.5
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.961538462
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Marrow Necrosis"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Metaplasia Osseous"	0.5
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Mineralization"	0.69036519
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Neovascularization"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Not Identified in Marrow"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Present in Marrow"	0.5
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	Osteoneogenesis	0.5
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Periosteum, Bone Proliferation"	1
+126 day	126 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Periosteum, Fibrosis"	1
+126 day	126 day	IRM COMPARED TO NB	"LYMPH NODE, POPLITEAL"	UNREMARKABLE	0.1
+126 day	126 day	IRM COMPARED TO NB	"LYMPH NODE, POPLITEAL"	"Fibrosis, Capsule"	1
+126 day	126 day	IRM COMPARED TO NB	"LYMPH NODE, POPLITEAL"	"Germinal Center, Active, Cortex"	1
+126 day	126 day	IRM COMPARED TO NB	"LYMPH NODE, POPLITEAL"	"Infiltrate, Heterophil, Medullary Cord"	1
+126 day	126 day	IRM COMPARED TO NB	"LYMPH NODE, POPLITEAL"	"Pigment, Yellow-Brown, Macrophage"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	Cortical Bone Defect	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Cortical Bone Defect, Not Apparent in Plane of Section"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Cortical Bone Defect, Replaced with Trabecular Bone"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Black, Multinucleated Giant Cell"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Center Cavity"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Fibrosis"	0.867132867
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Granulation Tissue (Central Cavity/Necrosis)"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Hemorrhage"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Heterophil"	0.965034965
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Lymphocytes"	0.296037296
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Macrophages"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Marrow Elements"	0.703962704
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.230769231
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Marrow Necrosis"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Metaplasia Osseous"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Mineralization"	0.769230769
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Neovascularization"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Not Identified in Marrow"	0.5
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Present in Marrow"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Marrow, Fibrosis"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Marrow, Macrophage, Focal"	0.5
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	Osteoneogenesis	0.903846154
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Periosteum, Bone Proliferation"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Periosteum, Fibrosis"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	Cortical Bone Defect	0.5
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Cortex, Bone Necrosis"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Not Apparent in Plane of Section"	0.867132867
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Replaced with Trabecular Bone"	0.5
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Fibrosis"	0.769230769
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Hemorrhage"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Heterophil"	0.903846154
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Lymphocytes"	0.72027972
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Macrophages"	0.5
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Marrow Elements"	0.948717949
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Intracellular Implant Particles, Macrophages"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Marrow Necrosis"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Metaplasia Osseous"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Mineralization"	0.903846154
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Neovascularization"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Present in Marrow"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	Osteoneogenesis	0.703962704
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Bone Proliferation"	0.72027972
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Cartilage Formation"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Fibrosis"	0.903846154
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Foreign Refractile Material, Macrophage"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Implant Material"	0.903846154
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Infiltrate, Multinucleated Cell"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	Cortical Bone Defect	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Cortical Bone Defect, Not Apparent in Plane of Section"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Cortical Bone Defect, Replaced with Trabecular Bone"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Central Cavity"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Fibrosis"	0.985431235
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Granulation Tissue (Central Cavity/Necrosis)"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Hemorrhage"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Heterophil"	0.98951049
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Lymphocytes"	0.867132867
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Macrophages"	0.5
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Marrow Elements"	0.72027972
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.769230769
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Marrow Necrosis"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Metaplasia Osseous"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Mineralization"	0.98951049
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Neovascularization"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Not Identified in Marrow"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Present in Marrow"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	Osteoneogenesis	0.903846154
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Periosteum, Bone Proliferation"	1
+84 day	84 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Periosteum, Fibrosis"	1
+84 day	84 day	IRM COMPARED TO NB	"LYMPH NODE, POPLITEAL"	UNREMARKABLE	0.5
+84 day	84 day	IRM COMPARED TO NB	"LYMPH NODE, POPLITEAL"	"Fibrosis, Capsule"	1
+84 day	84 day	IRM COMPARED TO NB	"LYMPH NODE, POPLITEAL"	"Germinal Center, Active, Cortex"	1
+84 day	84 day	IRM COMPARED TO NB	"LYMPH NODE, POPLITEAL"	"Infiltrate, Heterophil, Medullary Cord"	0.5
+84 day	84 day	IRM COMPARED TO NB	"LYMPH NODE, POPLITEAL"	"Pigment, Yellow-Brown, Macrophage"	0.5
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	Cortical Bone Defect	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Cortical Bone Defect, Not Apparent in Plane of Section"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Cortical Bone Defect, Replaced with Trabecular Bone"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Black, Multinucleated Giant Cell"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Center Cavity"	0.5
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Fibrosis"	0.5
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Granulation Tissue (Central Cavity/Necrosis)"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Hemorrhage"	0.1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Heterophil"	0.858974359
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Lymphocytes"	0.284615385
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Macrophages"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Marrow Elements"	0.842657343
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.233333333
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Marrow Necrosis"	0.233333333
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Metaplasia Osseous"	0.5
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Mineralization"	0.961538462
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Neovascularization"	0.5
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Not Identified in Marrow"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Implant Material, Present in Marrow"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Marrow, Fibrosis"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Marrow, Macrophage, Focal"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	Osteoneogenesis	0.97972028
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Periosteum, Bone Proliferation"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, CENTER"	"Periosteum, Fibrosis"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	Cortical Bone Defect	0.284615385
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Cortex, Bone Necrosis"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Not Apparent in Plane of Section"	0.961538462
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Replaced with Trabecular Bone"	0.141025641
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Fibrosis"	0.233333333
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Hemorrhage"	0.5
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Heterophil"	0.940559441
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Lymphocytes"	0.233333333
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Macrophages"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Marrow Elements"	0.5
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.5
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Marrow Necrosis"	0.5
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Metaplasia Osseous"	0.5
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Mineralization"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Neovascularization"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Implant Material, Present in Marrow"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	Osteoneogenesis	0.5
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Bone Proliferation"	0.5
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Cartilage Formation"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Fibrosis"	0.961538462
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Foreign Refractile Material, Macrophage"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Implant Material"	0.233333333
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, LATERAL"	"Periosteum, Infiltrate, Multinucleated Cell"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	Cortical Bone Defect	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Cortical Bone Defect, Not Apparent in Plane of Section"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Cortical Bone Defect, Replaced with Trabecular Bone"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Central Cavity"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Fibrosis"	0.961538462
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Granulation Tissue (Central Cavity/Necrosis)"	0.5
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Hemorrhage"	0.5
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Heterophil"	0.858974359
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Lymphocytes"	0.715384615
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Macrophages"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Marrow Elements"	0.842657343
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.715384615
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Marrow Necrosis"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Metaplasia Osseous"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Mineralization"	0.9
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Neovascularization"	0.5
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Not Identified in Marrow"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Implant Material, Present in Marrow"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	Osteoneogenesis	0.842657343
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Periosteum, Bone Proliferation"	1
+42 day	42 day	IRM COMPARED TO NB	"BONE, FEMUR, MEDIAL"	"Periosteum, Fibrosis"	1
+42 day	42 day	IRM COMPARED TO NB	"LYMPH NODE, POPLITEAL"	UNREMARKABLE	0.842657343
+42 day	42 day	IRM COMPARED TO NB	"LYMPH NODE, POPLITEAL"	"Fibrosis, Capsule"	0.5
+42 day	42 day	IRM COMPARED TO NB	"LYMPH NODE, POPLITEAL"	"Germinal Center, Active, Cortex"	0.5
+42 day	42 day	IRM COMPARED TO NB	"LYMPH NODE, POPLITEAL"	"Infiltrate, Heterophil, Medullary Cord"	1
+42 day	42 day	IRM COMPARED TO NB	"LYMPH NODE, POPLITEAL"	"Pigment, Yellow-Brown, Macrophage"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	Cortical Bone Defect	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Cortical Bone Defect, Not Apparent in Plane of Section"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Cortical Bone Defect, Replaced with Trabecular Bone"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Black, Multinucleated Giant Cell"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Center Cavity"	0.5
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Fibrosis"	0.1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Granulation Tissue (Central Cavity/Necrosis)"	0.5
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Hemorrhage"	0.059440559
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Heterophil"	0.141025641
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Lymphocytes"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Macrophages"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Marrow Elements"	0.5
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	0.5
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.9
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Marrow Necrosis"	0.012820513
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Metaplasia Osseous"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Mineralization"	0.30963481
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Neovascularization"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Not Identified in Marrow"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Present in Marrow"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Marrow, Fibrosis"	0.5
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Marrow, Macrophage, Focal"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	Osteoneogenesis	0.059440559
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Periosteum, Bone Proliferation"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Periosteum, Fibrosis"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	Cortical Bone Defect	0.157342657
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Cortex, Bone Necrosis"	0.5
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Not Apparent in Plane of Section"	0.97972028
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Replaced with Trabecular Bone"	0.157342657
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Fibrosis"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Hemorrhage"	0.141025641
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Heterophil"	0.059440559
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Lymphocytes"	0.999300699
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Macrophages"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Marrow Elements"	0.9
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.5
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Marrow Necrosis"	0.012820513
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Metaplasia Osseous"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Mineralization"	0.695804196
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Neovascularization"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Present in Marrow"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	Osteoneogenesis	0.9
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Bone Proliferation"	0.003496503
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Cartilage Formation"	0.5
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Fibrosis"	0.02027972
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Foreign Refractile Material, Macrophage"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Implant Material"	0.766666667
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Infiltrate, Multinucleated Cell"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	Cortical Bone Defect	0.012820513
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Cortical Bone Defect, Not Apparent in Plane of Section"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Cortical Bone Defect, Replaced with Trabecular Bone"	0.012820513
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Central Cavity"	0.5
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Fibrosis"	0.304195804
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Granulation Tissue (Central Cavity/Necrosis)"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Hemorrhage"	0.1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Heterophil"	0.141025641
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Lymphocytes"	0.5
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Macrophages"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Marrow Elements"	0.5
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	0.9
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.766666667
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Marrow Necrosis"	0.5
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Metaplasia Osseous"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Mineralization"	0.304195804
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Neovascularization"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Not Identified in Marrow"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Present in Marrow"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	Osteoneogenesis	0.5
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Periosteum, Bone Proliferation"	7.77001E-05
+126 day/IRM	126 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Periosteum, Fibrosis"	0.1
+126 day/IRM	126 day	IRM (OVER TIME)	"LYMPH NODE, POPLITEAL"	UNREMARKABLE	1
+126 day/IRM	126 day	IRM (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Fibrosis, Capsule"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Germinal Center, Active, Cortex"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Infiltrate, Heterophil, Medullary Cord"	1
+126 day/IRM	126 day	IRM (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Pigment, Yellow-Brown, Macrophage"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	Cortical Bone Defect	0.5
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Cortical Bone Defect, Not Apparent in Plane of Section"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Cortical Bone Defect, Replaced with Trabecular Bone"	0.5
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Black, Multinucleated Giant Cell"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Center Cavity"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Fibrosis"	0.304195804
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Granulation Tissue (Central Cavity/Necrosis)"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Hemorrhage"	0.766666667
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Heterophil"	0.695804196
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Lymphocytes"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Macrophages"	0.5
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Marrow Elements"	0.695804196
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	0.766666667
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.715384615
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Marrow Necrosis"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Metaplasia Osseous"	0.233333333
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Mineralization"	0.012820513
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Neovascularization"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Not Identified in Marrow"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Present in Marrow"	0.5
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Marrow, Fibrosis"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Marrow, Macrophage, Focal"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	Osteoneogenesis	0.005050505
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Periosteum, Bone Proliferation"	0.233333333
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Periosteum, Fibrosis"	0.5
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	Cortical Bone Defect	0.005050505
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Cortex, Bone Necrosis"	0.5
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Not Apparent in Plane of Section"	0.9999223
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Replaced with Trabecular Bone"	0.005050505
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Fibrosis"	0.9
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Hemorrhage"	0.5
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Heterophil"	0.059440559
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Lymphocytes"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Macrophages"	0.5
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Marrow Elements"	0.940559441
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	0.1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.5
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Marrow Necrosis"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Metaplasia Osseous"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Mineralization"	0.012820513
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Neovascularization"	0.766666667
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Present in Marrow"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	Osteoneogenesis	0.012820513
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Bone Proliferation"	0.003496503
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Cartilage Formation"	0.5
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Fibrosis"	0.003496503
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Foreign Refractile Material, Macrophage"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Implant Material"	0.5
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Infiltrate, Multinucleated Cell"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	Cortical Bone Defect	0.038461538
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Cortical Bone Defect, Not Apparent in Plane of Section"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Cortical Bone Defect, Replaced with Trabecular Bone"	0.038461538
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Central Cavity"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Fibrosis"	0.5
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Granulation Tissue (Central Cavity/Necrosis)"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Hemorrhage"	0.5
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Heterophil"	0.304195804
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Lymphocytes"	0.5
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Macrophages"	0.5
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Marrow Elements"	0.304195804
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	0.715384615
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Intracellular Implant Particles, Macrophages"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Marrow Necrosis"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Metaplasia Osseous"	0.5
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Mineralization"	0.5
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Neovascularization"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Not Identified in Marrow"	1
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Present in Marrow"	0.5
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	Osteoneogenesis	0.02027972
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Periosteum, Bone Proliferation"	0.000699301
+126 day/NB	126 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Periosteum, Fibrosis"	1
+126 day/NB	126 day	NB (OVER TIME)	"LYMPH NODE, POPLITEAL"	UNREMARKABLE	0.284615385
+126 day/NB	126 day	NB (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Fibrosis, Capsule"	1
+126 day/NB	126 day	NB (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Germinal Center, Active, Cortex"	0.961538462
+126 day/NB	126 day	NB (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Infiltrate, Heterophil, Medullary Cord"	1
+126 day/NB	126 day	NB (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Pigment, Yellow-Brown, Macrophage"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	Cortical Bone Defect	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Cortical Bone Defect, Not Apparent in Plane of Section"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Cortical Bone Defect, Replaced with Trabecular Bone"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Black, Multinucleated Giant Cell"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Center Cavity"	0.533333333
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Fibrosis"	0.076923077
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Granulation Tissue (Central Cavity/Necrosis)"	0.533333333
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Hemorrhage"	0.018648019
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Heterophil"	0.181818182
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Lymphocytes"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Macrophages"	0.466666667
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Marrow Elements"	0.785547786
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	0.466666667
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.923076923
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Marrow Necrosis"	0.018648019
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Metaplasia Osseous"	0.466666667
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Mineralization"	0.948717949
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Neovascularization"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Not Identified in Marrow"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Present in Marrow"	0.733333333
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Marrow, Fibrosis"	0.533333333
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Marrow, Macrophage, Focal"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	Osteoneogenesis	0.083916084
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Periosteum, Bone Proliferation"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Periosteum, Fibrosis"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	Cortical Bone Defect	0.404817405
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Cortex, Bone Necrosis"	0.533333333
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Not Apparent in Plane of Section"	0.8997669
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Replaced with Trabecular Bone"	0.214452214
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Fibrosis"	0.948717949
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Hemorrhage"	0.051282051
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Heterophil"	0.083916084
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Lymphocytes"	0.769230769
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Macrophages"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Marrow Elements"	0.923076923
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.123076923
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Marrow Necrosis"	0.018648019
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Metaplasia Osseous"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Mineralization"	0.818181818
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Neovascularization"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Present in Marrow"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	Osteoneogenesis	0.426573427
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Bone Proliferation"	0.006993007
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Cartilage Formation"	0.533333333
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Fibrosis"	0.031701632
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Foreign Refractile Material, Macrophage"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Implant Material"	0.8
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Infiltrate, Multinucleated Cell"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	Cortical Bone Defect	0.018648019
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Cortical Bone Defect, Not Apparent in Plane of Section"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Cortical Bone Defect, Replaced with Trabecular Bone"	0.018648019
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Central Cavity"	0.533333333
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Fibrosis"	0.377622378
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Granulation Tissue (Central Cavity/Necrosis)"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Hemorrhage"	0.123076923
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Heterophil"	0.181818182
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Lymphocytes"	0.769230769
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Macrophages"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Marrow Elements"	0.446153846
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	0.876923077
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.8
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Marrow Necrosis"	0.533333333
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Metaplasia Osseous"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Mineralization"	0.230769231
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Neovascularization"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Not Identified in Marrow"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Present in Marrow"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	Osteoneogenesis	0.181818182
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Periosteum, Bone Proliferation"	0.0001554
+84 day/IRM	84 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Periosteum, Fibrosis"	0.123076923
+84 day/IRM	84 day	IRM (OVER TIME)	"LYMPH NODE, POPLITEAL"	UNREMARKABLE	0.466666667
+84 day/IRM	84 day	IRM (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Fibrosis, Capsule"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Germinal Center, Active, Cortex"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Infiltrate, Heterophil, Medullary Cord"	1
+84 day/IRM	84 day	IRM (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Pigment, Yellow-Brown, Macrophage"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	Cortical Bone Defect	0.533333333
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Cortical Bone Defect, Not Apparent in Plane of Section"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Cortical Bone Defect, Replaced with Trabecular Bone"	0.533333333
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Black, Multinucleated Giant Cell"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Center Cavity"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Fibrosis"	0.661538462
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Granulation Tissue (Central Cavity/Necrosis)"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Hemorrhage"	0.533333333
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Heterophil"	0.404817405
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Lymphocytes"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Macrophages"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Marrow Elements"	0.8997669
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.266666667
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Marrow Necrosis"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Metaplasia Osseous"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Mineralization"	0.466666667
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Neovascularization"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Not Identified in Marrow"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Present in Marrow"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Marrow, Fibrosis"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Marrow, Macrophage, Focal"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	Osteoneogenesis	0.034965035
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Periosteum, Bone Proliferation"	0.266666667
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Periosteum, Fibrosis"	0.533333333
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	Cortical Bone Defect	0.034965035
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Cortex, Bone Necrosis"	0.533333333
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Not Apparent in Plane of Section"	0.998601399
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Replaced with Trabecular Bone"	0.008857809
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Fibrosis"	0.876923077
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Hemorrhage"	0.533333333
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Heterophil"	0.034965035
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Lymphocytes"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Macrophages"	0.466666667
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Marrow Elements"	0.965034965
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.769230769
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Marrow Necrosis"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Metaplasia Osseous"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Mineralization"	0.466666667
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Neovascularization"	0.8
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Present in Marrow"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	Osteoneogenesis	0.076923077
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Bone Proliferation"	0.006993007
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Cartilage Formation"	0.533333333
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Fibrosis"	0.1002331
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Foreign Refractile Material, Macrophage"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Implant Material"	0.923076923
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Infiltrate, Multinucleated Cell"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	Cortical Bone Defect	0.051282051
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Cortical Bone Defect, Not Apparent in Plane of Section"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Cortical Bone Defect, Replaced with Trabecular Bone"	0.051282051
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Central Cavity"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Fibrosis"	0.916083916
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Granulation Tissue (Central Cavity/Necrosis)"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Hemorrhage"	0.533333333
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Heterophil"	0.785547786
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Lymphocytes"	0.769230769
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Macrophages"	0.466666667
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Marrow Elements"	0.661538462
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Intracellular Implant Particles, Macrophages"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Marrow Necrosis"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Metaplasia Osseous"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Mineralization"	0.948717949
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Neovascularization"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Not Identified in Marrow"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Present in Marrow"	1
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	Osteoneogenesis	0.034965035
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Periosteum, Bone Proliferation"	0.008857809
+84 day/NB	84 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Periosteum, Fibrosis"	1
+84 day/NB	84 day	NB (OVER TIME)	"LYMPH NODE, POPLITEAL"	UNREMARKABLE	0.446153846
+84 day/NB	84 day	NB (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Fibrosis, Capsule"	1
+84 day/NB	84 day	NB (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Germinal Center, Active, Cortex"	0.923076923
+84 day/NB	84 day	NB (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Infiltrate, Heterophil, Medullary Cord"	1
+84 day/NB	84 day	NB (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Pigment, Yellow-Brown, Macrophage"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	Cortical Bone Defect	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Cortical Bone Defect, Not Apparent in Plane of Section"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Cortical Bone Defect, Replaced with Trabecular Bone"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Black, Multinucleated Giant Cell"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Center Cavity"	0.766666667
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Fibrosis"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Granulation Tissue (Central Cavity/Necrosis)"	0.5
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Hemorrhage"	0.30963481
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Heterophil"	0.842657343
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Lymphocytes"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Macrophages"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Marrow Elements"	0.69036519
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.9
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Marrow Necrosis"	0.157342657
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Metaplasia Osseous"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Mineralization"	0.695804196
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Neovascularization"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Not Identified in Marrow"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Present in Marrow"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Marrow, Fibrosis"	0.5
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Marrow, Macrophage, Focal"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	Osteoneogenesis	0.30963481
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Periosteum, Bone Proliferation"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, CENTER"	"Periosteum, Fibrosis"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	Cortical Bone Defect	0.961538462
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Cortex, Bone Necrosis"	0.5
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Not Apparent in Plane of Section"	0.284615385
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Replaced with Trabecular Bone"	0.961538462
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Fibrosis"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Hemorrhage"	0.5
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Heterophil"	0.5
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Lymphocytes"	0.715384615
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Macrophages"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Marrow Elements"	0.961538462
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.284615385
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Marrow Necrosis"	0.059440559
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Metaplasia Osseous"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Mineralization"	0.858974359
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Neovascularization"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Present in Marrow"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	Osteoneogenesis	0.715384615
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Bone Proliferation"	0.5
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Cartilage Formation"	0.5
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Fibrosis"	0.5
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Foreign Refractile Material, Macrophage"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Implant Material"	0.9
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Infiltrate, Multinucleated Cell"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	Cortical Bone Defect	0.012820513
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Cortical Bone Defect, Not Apparent in Plane of Section"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Cortical Bone Defect, Replaced with Trabecular Bone"	0.012820513
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Central Cavity"	0.5
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Fibrosis"	0.842657343
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Granulation Tissue (Central Cavity/Necrosis)"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Hemorrhage"	0.284615385
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Heterophil"	0.842657343
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Lymphocytes"	0.715384615
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Macrophages"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Marrow Elements"	0.141025641
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.9
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Marrow Necrosis"	0.5
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Metaplasia Osseous"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Mineralization"	0.715384615
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Neovascularization"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Not Identified in Marrow"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Present in Marrow"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	Osteoneogenesis	0.69036519
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Periosteum, Bone Proliferation"	7.77001E-05
+42 day/IRM	42 day	IRM (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Periosteum, Fibrosis"	0.1
+42 day/IRM	42 day	IRM (OVER TIME)	"LYMPH NODE, POPLITEAL"	UNREMARKABLE	0.038461538
+42 day/IRM	42 day	IRM (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Fibrosis, Capsule"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Germinal Center, Active, Cortex"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Infiltrate, Heterophil, Medullary Cord"	1
+42 day/IRM	42 day	IRM (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Pigment, Yellow-Brown, Macrophage"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	Cortical Bone Defect	0.5
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Cortical Bone Defect, Not Apparent in Plane of Section"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Cortical Bone Defect, Replaced with Trabecular Bone"	0.5
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Black, Multinucleated Giant Cell"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Center Cavity"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Fibrosis"	0.9
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Granulation Tissue (Central Cavity/Necrosis)"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Hemorrhage"	0.5
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Heterophil"	0.858974359
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Lymphocytes"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Macrophages"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Marrow Elements"	0.934032634
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.233333333
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Marrow Necrosis"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Metaplasia Osseous"	0.5
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Mineralization"	0.5
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Neovascularization"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Not Identified in Marrow"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Implant Material, Present in Marrow"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Marrow, Fibrosis"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Marrow, Macrophage, Focal"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	Osteoneogenesis	0.5
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Periosteum, Bone Proliferation"	0.233333333
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, CENTER"	"Periosteum, Fibrosis"	0.5
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	Cortical Bone Defect	0.284615385
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Cortex, Bone Necrosis"	0.5
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Not Apparent in Plane of Section"	0.961538462
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Cortical Bone Defect, Replaced with Trabecular Bone"	0.141025641
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Fibrosis"	0.715384615
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Hemorrhage"	0.9
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Heterophil"	0.5
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Lymphocytes"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Macrophages"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Marrow Elements"	0.715384615
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Intracellular Implant Particles, Macrophages"	0.233333333
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Marrow Necrosis"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Metaplasia Osseous"	0.5
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Mineralization"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Neovascularization"	0.5
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Implant Material, Present in Marrow"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	Osteoneogenesis	0.1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Bone Proliferation"	0.233333333
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Cartilage Formation"	0.5
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Fibrosis"	0.9
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Foreign Refractile Material, Macrophage"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Implant Material"	0.5
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, LATERAL"	"Periosteum, Infiltrate, Multinucleated Cell"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	Cortical Bone Defect	0.038461538
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Cortical Bone Defect, Not Apparent in Plane of Section"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Cortical Bone Defect, Replaced with Trabecular Bone"	0.038461538
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Central Cavity"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Fibrosis"	0.987179487
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Granulation Tissue (Central Cavity/Necrosis)"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Hemorrhage"	0.5
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Heterophil"	0.940559441
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Lymphocytes"	0.5
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Macrophages"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Marrow Elements"	0.5
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Infiltrate, Multinucleated Giant Cells"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Intracellular Implant Particles, Macrophages"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Marrow Necrosis"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Metaplasia Osseous"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Mineralization"	0.961538462
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Neovascularization"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Not Identified in Marrow"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Implant Material, Present in Marrow"	1
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	Osteoneogenesis	0.284615385
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Periosteum, Bone Proliferation"	0.02027972
+42 day/NB	42 day	NB (OVER TIME)	"BONE, FEMUR, MEDIAL"	"Periosteum, Fibrosis"	1
+42 day/NB	42 day	NB (OVER TIME)	"LYMPH NODE, POPLITEAL"	UNREMARKABLE	0.284615385
+42 day/NB	42 day	NB (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Fibrosis, Capsule"	1
+42 day/NB	42 day	NB (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Germinal Center, Active, Cortex"	0.766666667
+42 day/NB	42 day	NB (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Infiltrate, Heterophil, Medullary Cord"	1
+42 day/NB	42 day	NB (OVER TIME)	"LYMPH NODE, POPLITEAL"	"Pigment, Yellow-Brown, Macrophage"	1

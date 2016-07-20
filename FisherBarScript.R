@@ -33,12 +33,8 @@ for (h in 1:length(UQcomp)){
     # pplot<-ggplot(data=FisherSub,aes(Interval, FISHER, fill=factor(Tissue)))+geom_bar(stat="identity",position="dodge")+ geom_hline(aes(yintercept=0.05))+ggtitle(FisherSub[1,5])
     pplot<-ggplot(data=FisherSub,aes(Interval, FISHER, fill=factor(Tissue)))+geom_bar(stat="identity",position="dodge")+ geom_hline(aes(yintercept=0.05))+ggtitle(FisherSub[1,5])+labs(x = FisherSub[1,3],y="FISHER EXACT RESULTS (ONE-SIDED)")
     fname <-gsub("/", "-", FisherSub[1,5])
-    ggsave(pplot,filename=paste(FisherSub[1,3], "-", fname, ".jpg",sep=""))
+    ggsave(pplot,filename=paste(FisherSub[1,3], "--", fname, ".jpg",sep=""))
   }
 }
+
 #
-#  the above loop works!  
-#  Need to add variable names (h and i) to plots
-#  Need to figure out why NA is appearing in some 
-# found it.  SOme of the 'Interval' values in data frame ended up with NA
-# Fix by checking putitng interval 
